@@ -7,6 +7,8 @@ Thius switch has three fundamental states:
 - Recording
 - Playing
 
+![gui](img/gui.png)
+
 ---
 
 ## Recording
@@ -20,7 +22,3 @@ Therea are different recording modes.
 ---
 
 ## Use Case
-
-
-
-
