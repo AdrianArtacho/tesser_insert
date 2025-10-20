@@ -3,7 +3,8 @@
 This M4Live device processes different MIDI inputs to handle a 'insert switch'.
 Thius switch has three fundamental states:
 
-- OFF
+- EMPTY
+- OFF (not playing, but stored sth)
 - Recording
 - Playing
 
