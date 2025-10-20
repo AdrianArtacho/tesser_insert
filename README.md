@@ -22,4 +22,13 @@ Therea are different recording modes.
 
 ---
 
+## PLayback
+
+---
+
+## Clear memory
+
+
+---
+
 ## Use Case
