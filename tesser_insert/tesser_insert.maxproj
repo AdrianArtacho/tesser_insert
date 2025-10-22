@@ -2,7 +2,7 @@
 	"name" : "tesser_insert",
 	"version" : 1,
 	"creationdate" : 3843715834,
-	"modificationdate" : 3843717810,
+	"modificationdate" : 3843815862,
 	"viewrect" : [ 25.0, 106.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"nonzero.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
